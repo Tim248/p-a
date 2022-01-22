@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Ferry';
+    src: url(../fonts/Ferry/Ferry-Black.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url(../fonts/Montserrat/Montserrat-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat-Medium';
+    src: url(../fonts/Montserrat/Montserrat-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url(../fonts/Montserrat/Montserrat-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Raleway-Medium';
+    src: url(../fonts/Raleway/Raleway-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Nunito-Regular';
+    src: url(../fonts/Nunito/Nunito-Regular.ttf);
+}
