@@ -7,7 +7,7 @@
     list-style: none;
     user-select: none;
 }
-
+/* 
 ::-webkit-scrollbar {
     width: 5px;
 }
@@ -19,7 +19,7 @@
 
 ::-webkit-scrollbar-track {
     background: var(--blockBg);
-}
+} */
 
 .container {
     max-width: 1820px;
@@ -114,25 +114,25 @@ button {
 .google-analitics {
     position: absolute;
     opacity: 0;
-    transition: opacity 800ms ease, position 50s ease;
+    transition: opacity 800ms ease;
 }
 
 .google-ads {
     position: absolute;
     opacity: 1;
-    transition: opacity 800ms ease, position 1s ease;
+    transition: opacity 800ms ease;
 }
 
 .yandex-direct {
     position: absolute;
     opacity: 1;
-    transition: opacity 800ms ease, position 50s ease;
+    transition: opacity 800ms ease;
 }
 
 .yandex-metrica {
     position: absolute;
     opacity: 0;
-    transition: opacity 800ms ease, position 50s ease;
+    transition: opacity 800ms ease;
 }
 
 #SocialM>.main__offer-card,
