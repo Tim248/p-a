@@ -6,8 +6,8 @@
     text-decoration: none;
     list-style: none;
     user-select: none;
-}
-/* 
+} 
+
 ::-webkit-scrollbar {
     width: 5px;
 }
@@ -19,7 +19,7 @@
 
 ::-webkit-scrollbar-track {
     background: var(--blockBg);
-} */
+}
 
 .container {
     max-width: 1820px;
